@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Predicting Corporate Bond Returns for Next Month
 
 
@@ -68,3 +69,7 @@ This project focuses on predicting next-month corporate bond returns using machi
 
 
 
+=======
+# Predicting-Corporate-Bond-Returns-for-Next-Month-Regression
+Predicting Next-Month Corporate Bond Returns
+>>>>>>> origin/main
